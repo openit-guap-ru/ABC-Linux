@@ -1,0 +1,2 @@
+# Переименовать в _config.yml Чтобы установить тему оформления 
+theme: jekyll-theme-tactile
