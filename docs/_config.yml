@@ -1,5 +1,5 @@
 # Чтобы установить тему оформления нужно ереименовать _config.txt в _config.yml  
 
 theme: jekyll-theme-minimal
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [ABC Linux]
+description: [Введение в семейство операционных систем GNU/Linux]
