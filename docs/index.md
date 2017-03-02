@@ -1,6 +1,6 @@
 ---
 title: ABC Linux
-layout: post
+layout: Лабораторные работы
 ---
 
 # ABC Linux
