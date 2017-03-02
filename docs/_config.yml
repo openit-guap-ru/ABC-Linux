@@ -1,0 +1,4 @@
+# Чтобы установить тему оформления нужно ереименовать _config.txt в _config.yml  
+
+theme: jekyll-theme-tactile
+name: Методические указания по курсу ABC-Linux
